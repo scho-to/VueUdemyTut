@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "communication": "cd communication && npm run dev",
+    "adv": "cd adv && npm run dev"
   },
   "keywords": [],
   "author": "",

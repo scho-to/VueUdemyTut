@@ -1,1 +1,1 @@
-run = "cd adv && npm run dev"
+run = "cd prj-cmp && npm run dev"
