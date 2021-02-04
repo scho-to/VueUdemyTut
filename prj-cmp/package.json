@@ -2,10 +2,12 @@
   "name": "prj-cmp",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build"
+    "dev": "vite --port 8000",
+    "build": "vite build",
+    "help": "vite -h"
   },
   "dependencies": {
+    "faker": "^5.3.1",
     "vue": "^3.0.4"
   },
   "devDependencies": {
