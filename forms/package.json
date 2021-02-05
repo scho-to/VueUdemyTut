@@ -1,0 +1,17 @@
+{
+  "name": "forms",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "clear && vite --port 8000",
+    "build": "clear && vite build",
+    "serve": "clear && vite build && vite preview --port 8080"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.0-beta.64"
+  }
+}
