@@ -9,7 +9,8 @@
     "prj-cmp": "cd 10-prj-cmp && npm run dev",
     "forms": "cd 11-forms && npm run dev",
     "adv": "cd 09-adv && npm run dev",
-    "http": "cd 12-http && npm run dev"
+    "http": "cd 12-http && npm run dev",
+    "routing": "cd 13-routing && npm run dev"
   },
   "keywords": [],
   "author": "",
